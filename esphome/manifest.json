@@ -1,0 +1,9 @@
+{
+  "name": "esphome-ld2450",
+  "version": "1.0.0",
+  "build": {
+    "include": [
+      "components"
+    ]
+  }
+}
