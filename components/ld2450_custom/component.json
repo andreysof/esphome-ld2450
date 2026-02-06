@@ -2,7 +2,7 @@
   "name": "ld2450_custom",
   "version": "1.0.0",
   "files": [
-    "ld2450_custom/ld2450.h",
-    "ld2450_custom/ld2450.cpp"
+    "ld2450.h",
+    "ld2450.cpp"
   ]
 }
